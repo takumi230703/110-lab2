@@ -1,4 +1,4 @@
-const arrDrinks: string[] = ["water", "lemonade", "cola", "orange juice"];
+export const arrDrinks: string[] = ["water", "lemonade", "cola", "orange juice"];
     
 export function printDrinks(arrDrinks: string[]): void {
     for (const drink of arrDrinks) {
