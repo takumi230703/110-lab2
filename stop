@@ -1,0 +1,102 @@
+[33mcommit a6f65fcb26efcdaed5144627429386c6d78dad38[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/add-drinks[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 2b84c87 e8c1231
+Author: Taku230703 <ttaku230703@gmail.com>
+Date:   Thu Oct 8 11:11:33 2026 -0700
+
+    Merge pull request #6 from takumi230703/feature/music
+    
+    Added main.ts
+
+[33mcommit e8c12316f306a6a63e46538ad5ce3ffc5f39675e[m[33m ([m[1;31morigin/feature/music[m[33m)[m
+Merge: b44435b 2b84c87
+Author: Taku230703 <ttaku230703@gmail.com>
+Date:   Thu Oct 8 11:11:07 2026 -0700
+
+    Merge branch 'main' into feature/music
+
+[33mcommit b44435b024f946ad0e9a1e1f6046fd5bda07eef1[m
+Author: Takumi Ogawa <taogawa@ucsd.edu>
+Date:   Thu Oct 8 11:06:32 2026 -0700
+
+    Added main.ts
+
+[33mcommit 2b84c87f707fcc2e568aea406a8c35d0f67fcf7c[m
+Merge: 7c17e80 ee0dee5
+Author: Dar-Nguyen <81067914+Dar-Nguyen@users.noreply.github.com>
+Date:   Thu Oct 8 11:05:48 2026 -0700
+
+    Merge pull request #5 from takumi230703/feature/add-drinks
+    
+    created main and added drinks feature
+
+[33mcommit ee0dee5d0d02e8ab7cb12fd8853b3e33cb3980bc[m[33m ([m[1;31morigin/feature/add-drinks[m[33m)[m
+Author: dnguyen <dtn028@ucsd.edu>
+Date:   Thu Oct 8 11:03:18 2026 -0700
+
+    created main and added drinks feature
+
+[33mcommit 7c17e808d5deb657b41958361bab1505f04d0be2[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 62146b0 f4401e9
+Author: Dar-Nguyen <81067914+Dar-Nguyen@users.noreply.github.com>
+Date:   Thu Oct 8 10:58:49 2026 -0700
+
+    Merge pull request #4 from takumi230703/feature/add-guest_list
+    
+    added guest list
+
+[33mcommit f4401e9a27b764ab0d2f8c323a181fe1a122a9b8[m[33m ([m[1;31morigin/feature/add-guest_list[m[33m, [m[1;32mfeature/add-guest_list[m[33m)[m
+Author: dnguyen <dtn028@ucsd.edu>
+Date:   Thu Oct 8 10:57:58 2026 -0700
+
+    added guest list
+
+[33mcommit 62146b04c55c434ef1d62d2b54504eacfededf0e[m
+Merge: 3102193 cf94d61
+Author: Dar-Nguyen <81067914+Dar-Nguyen@users.noreply.github.com>
+Date:   Thu Oct 8 10:55:42 2026 -0700
+
+    Merge pull request #3 from takumi230703/feature/add-drinks
+    
+    added drinks.ts
+
+[33mcommit cf94d61a0b3db6d31c1dede3f2ea40b133ca5db4[m
+Author: dnguyen <dtn028@ucsd.edu>
+Date:   Thu Oct 8 10:49:30 2026 -0700
+
+    added drinks.ts
+
+[33mcommit 3102193f2ef6258a14e53bfd98203178d354da6a[m
+Merge: 43b1944 77d79b0
+Author: Taku230703 <ttaku230703@gmail.com>
+Date:   Thu Oct 8 10:39:03 2026 -0700
+
+    Merge pull request #2 from takumi230703/feature/music
+    
+    Add music
+
+[33mcommit 77d79b0a9abbca7e631b28a7fe597289ec905651[m
+Author: Takumi Ogawa <taogawa@ucsd.edu>
+Date:   Thu Oct 8 10:38:26 2026 -0700
+
+    Add music
+
+[33mcommit 43b19449e64d80e437f0ed4d78c47c2e94a2cf2a[m
+Merge: 3536e16 c14d78c
+Author: Taku230703 <ttaku230703@gmail.com>
+Date:   Thu Oct 8 10:31:25 2026 -0700
+
+    Merge pull request #1 from takumi230703/feature/snacks_idea
+    
+    Create snacks list
+
+[33mcommit c14d78c3f446d6183afae43cc1bda01b2f675f58[m[33m ([m[1;31morigin/feature/snacks_idea[m[33m)[m
+Author: Takumi Ogawa <taogawa@ucsd.edu>
+Date:   Thu Oct 8 10:26:23 2026 -0700
+
+    Create snacks list
+
+[33mcommit 3536e1627051ab58b2a2ff143c05759490081cdf[m
+Author: Taku230703 <ttaku230703@gmail.com>
+Date:   Thu Oct 8 10:04:09 2026 -0700
+
+    Initial commit
